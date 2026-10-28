@@ -1,0 +1,7 @@
+Name,Age,City,Salary,Department
+Alice,28.0,New York,55000.0,Marketing
+Bob,34.0,Los Angeles,62000.0,Sales
+Charlie,45.0,Chicago,75000.0,Engineering
+Emma,31.0,Phoenix,58000.0,Marketing
+Henry,50.0,San Diego,89000.0,Management
+Ivy,,Dallas,61000.0,Engineering

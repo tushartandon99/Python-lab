@@ -1,0 +1,11 @@
+Name,Age,City,Salary,Department
+Alice,28,New York,55000,Marketing
+Bob,34,Los Angeles,62000,Sales
+Charlie,45,Chicago,75000,Engineering
+David,23,Houston,48000,Support
+Emma,31,Phoenix,58000,Marketing
+Frank,39,Philadelphia,,Engineering
+Grace,27,San Antonio,52000,Sales
+Henry,50,San Diego,89000,Management
+Ivy,,Dallas,61000,Engineering
+Jack,29,Austin,,Support
